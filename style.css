@@ -1,14 +1,16 @@
-body {
+body {background-image: url(imagem.jpg);
+    background-size: cover;
 }
 
-main#container {
+main#container {border-width: 1px; border-style: solid;
+    background-color: rgb(25, 132, 158);
 }
 
-h1.titulo {
+h1.titulo {color: black;
 }
 
-p.frase {
+p.frase {color: black;
 }
 
-p.autor {
+p.autor {color: white;
 }
